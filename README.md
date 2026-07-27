@@ -35,7 +35,7 @@ Amber Rios worked the longest shift (9.5 hrs); Sherman Moss the shortest (5.0 hr
 Deductions scale with gross pay, so higher earners lose more in absolute dollars — but the
 relative gap stays fairly consistent across employees.
 
-![Gross Pay vs Take-Home Pay]
+![image alt](https://github.com/bhakatkhush256-eng/Time-date-NF/blob/da67735a728e68ead7ebbc20ba58332e1efbc32f/gross_vs_daypay.png)
 
 **Wage Rate vs Hours Worked**
 No strong relationship between hourly wage and shift length — higher-paid employees didn't
